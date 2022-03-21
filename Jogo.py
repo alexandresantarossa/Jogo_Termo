@@ -973,7 +973,7 @@ resposta = random.choice(palavras1)
 resposta_dividida = list(resposta)
 
 # Inicia o jogo
-print(" =========== BEM-VINDO AO TERMO ===========\n  São 5 tentativas para acertar a palavra!\n ==========================================")
+print(" =========== BEM-VINDO AO TERMO ===========\n  São 6 tentativas para acertar a palavra!\n ==========================================")
 
 i = 0
 while i < 6:
