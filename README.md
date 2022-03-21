@@ -1,1 +1,1 @@
-# Jogo_Termo
+Jogo estilo Wordle/Termo feito em Python!
